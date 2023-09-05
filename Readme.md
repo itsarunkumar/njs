@@ -7,7 +7,7 @@ Njs CLI is a command-line tool designed to simplify the process of creating comp
 You can install Njs CLI globally using npm:
 
 ```bash
-npm install -g njs-cli`
+npm install -g njs-next
 ```
 
 ## Getting Started

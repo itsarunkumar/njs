@@ -1,15 +1,19 @@
 {
-  "name": "@njs/next",
-  "version": "2.0.0",
+  "name": "njs-next",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
     "njs": "./bin/index.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "git://github.com/itsarunkumar/njs.git",
   "author": "itsarunkumar",
   "license": "MIT",
   "dependencies": {

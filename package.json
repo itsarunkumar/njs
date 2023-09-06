@@ -22,5 +22,12 @@
     "commander": "^11.0.0",
     "inquirer": "^9.2.10",
     "ora": "^7.0.1"
-  }
+  },
+  "keywords": [
+    "cli",
+    "nextjs",
+    "next",
+    "react",
+    "helper"
+  ]
 }
